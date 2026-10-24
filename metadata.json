@@ -1,0 +1,6 @@
+{
+  "name": "Agenda Kegiatan Bidang PKD Tulungagung",
+  "description": "Dashboard Agenda Kegiatan Bidang Penataan Kerjasama Desa (PKD) Dinas Pemberdayaan Masyarakat dan Desa Kabupaten Tulungagung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
